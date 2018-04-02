@@ -5,4 +5,5 @@ This repo contains a lot of stray programs which may contain useful peieces of c
 #### Languages:
 <b> <a href="https://github.com/InvisibleNemo/RecycleBin/tree/master/Python3">Python3</a>
 <br> <a href="https://github.com/InvisibleNemo/RecycleBin/tree/master/Excel-VBA">Excel VBA</a>
+<br> <a href="https://github.com/InvisibleNemo/RecycleBin/tree/master/Windows Batch">Windows Batch</a>
 <br> <a href="https://github.com/InvisibleNemo/RecycleBin/tree/master/Bash">Bash</a><i> Coming soon</i> 
